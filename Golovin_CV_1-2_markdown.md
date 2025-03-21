@@ -12,7 +12,7 @@
 - Passion to code :)
 
 ### Courses
-- Sololearn | C++ --- May 2023
+- Sololearn | C++ --- October 2023
 
 ### Experience
 ##### ITransition -- Web Developer Intern &emsp; Mar 2025 --- Mar 2025
@@ -34,4 +34,9 @@
 - **CI/CD**: Git, Docker
 
 ### Extracurricular / Certifications:
-- Sololearn: C++ [Certificate](https://api2.sololearn.com/v2/certificates/CC-DG5SMJAQ/image/png?t=638330411423618870)
+- Sololearn: C++ ![image](https://api2.sololearn.com/v2/certificates/CC-DG5SMJAQ/image/png?t=638330411423618870)
+<object data="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
