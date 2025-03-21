@@ -35,8 +35,8 @@
 
 ### Extracurricular / Certifications:
 - Sololearn: C++ ![image](https://api2.sololearn.com/v2/certificates/CC-DG5SMJAQ/image/png?t=638330411423618870)
-<object data="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf">
+<object data="https://raw.githubusercontent.com/Vlvin/resume/main/assets/Vladimir Golovin - C%23 - Mar 7th%2C 2025.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://raw.githubusercontent.com/Vlvin/resume/main/assets/Vladimir Golovin - C%23 - Mar 7th%2C 2025.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Vladimir Golovin - C# - Mar 7th, 2025.pdf">Download PDF</a>.</p>
     </embed>
 </object>
