@@ -2,3 +2,5 @@ Golovin_CV_1-1_fig.pdf
 README.pdf
 README.html
 scripts/
+venv/
+build.sh
