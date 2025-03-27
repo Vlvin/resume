@@ -17,16 +17,23 @@
 - Itransition training | Commertial Software Development --- Jan 2025 - Mar 2025
 
 ### Experience
-##### ITransition -- Web Developer Intern &emsp; Mar 2025 --- Mar 2025
+##### ITransition -- Web Developer Intern &emsp; Jan 2025 --- Mar 2025
 - Performed various tasks
 - Developed full-stack application
 
 ### Projects  
-**Clocks Virtual Machine** | C | [GitHub Repository](https://github.com/vlvin/CLocksVM.git) &emsp; **Oct 2024 --- Present**  
+**GhostForms App** | ASP.NET (C#), React (JS), Docker | [GitHub Repository](https://github.com/Vlvin/GFS_Docker.git) &emsp; **Mar 2025 --- Mar 2025**
+- Started Full-stack application for ITransition internship
+- Created UI using React and Bootstrap framework
+- Implemented backend with ASP.NET
+- Docker for deployment
+
+
+**Clocks Virtual Machine** | C | [GitHub Repository](https://github.com/Vlvin/CLocksVM.git) &emsp; **Oct 2024 --- Present**  
 - Creating simple bytecode machine and compiler for Clocks programming language.
   Also researching corresponding tecnologies and algorithms (e.g. Bytecode machine, Hash Table)
 
-**Clocks Interpreter** | C++ | [GitHub Repository](https://github.com/vlvin/clocks.git) &emsp; **Sep 2023 --- Feb 2024**
+**Clocks Interpreter** | C++ | [GitHub Repository](https://github.com/Vlvin/clocks.git) &emsp; **Sep 2023 --- Feb 2024**
 - Developed Clocks language interpreter from the ground up. Performed optimization on return statement which resulted in 95% reduced execution time. Also filled std library with I/O and Math functionality
 
 ### Technical Skills
