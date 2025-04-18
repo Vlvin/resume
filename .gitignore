@@ -3,4 +3,5 @@ README.pdf
 README.html
 scripts/
 venv/
-build.sh
+public/Golovin*.pdf
+*.sh
