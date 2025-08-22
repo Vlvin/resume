@@ -57,6 +57,11 @@ h1+ul {
     padding: 0;
 }
 
+/* ul immediately after h2 = Section with list */
+h2+ul {
+    padding-top: 0.9em;
+}
+
 h1+ul>li {
     display: inline;
     white-space: pre;
